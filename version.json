@@ -1,5 +1,19 @@
-{
-    "version": "2026.10.15.02",
-    "url": "https://github.com/lin111164/update_table_code/releases/download/tabal_update/0907_control_onemode_101502.exe",
-    "message": "更新至 2026.10.15.02"
+update_info = {
+    "version": "2026.10.16.01",
+    "url": "https://github.com/lin111164/update_table_code/releases/download/20261016/1016.exe",
+    "message": (
+        "更新版本：2026.10.16.01\n\n"
+        "【更新內容】\n"
+        "1. 健康總評分\n"
+        "   - 新增階段目標加分機制。\n"
+        "   - 優化分數顯示方式，讓評分結果更直觀。\n\n"
+        "2. 桌面升降控制\n"
+        "   - 調整桌子升起時，第二顆鏡頭的注視偵測功能。\n"
+        "   - 優化桌面高度調整介面，提升滑鼠指標的辨識度。\n\n"
+        "3. 軟體更新功能\n"
+        "   - 新增軟體更新視窗。\n"
+        "   - 支援直接於軟體內進行更新，無須手動重新下載。\n\n"
+        "【尚未完成功能】\n"
+        "1. 桌面高度調整：點選指定高度後，桌子自動升降至設定位置。"
+    )
 }
