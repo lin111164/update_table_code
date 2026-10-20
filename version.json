@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.20.1450",
-  "url": "https://github.com/lin111164/update_table_code/releases/download/202610201424/10201435.exe",
-  "message": "更新版本：2026.10.20.1435\n\n【更新內容】\n1. 新增問題回饋表單。\n2. 顯示目前軟體版本。\n3. 修正更新後無法刪除舊版本的問題。\n4. 修正更新後無法重新開啟新版本的問題。"
+  "version": "2026.10.20.01",
+  "url": "https://github.com/lin111164/update_table_code/releases/download/2026102001/102001.exe",
+  "message": "更新版本：2026.10.20.01\n\n【更新內容】\n1. 新增問題回饋表單。\n2. 顯示目前軟體版本。\n3. 修正更新後無法刪除舊版本的問題。\n4. 修正更新後無法重新開啟新版本的問題。"
 }
