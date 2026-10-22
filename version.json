@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.21.01",
-  "url": "https://github.com/lin111164/update_table_code/releases/download/2026102101/102101.exe",
-  "message": "更新版本：2026.10.21.01\n\n【更新內容】\n1. 修改STANDING REMIDER倒數邏輯。"
+  "version": "2026.10.22.01",
+  "url": "https://github.com/lin111164/update_table_code/releases/download/2026102201/102201.exe",
+  "message": "更新版本：2026.10.22.01\n\n【更新內容】\n1. 修改Standing Reminder提醒邏輯(提醒後，時間才會開始倒數)。"
 }
