@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.28.01",
-  "url": "https://github.com/lin111164/update_table_code/releases/download/2026102801/102801.exe",
-  "message": "更新版本：2026.10.28.01\n\n【更新內容】\n1. 更新升降邏輯 修復第二顆鏡頭升降無反應BUG，第一顆鏡頭判斷線不見問題，姿勢辨識顯示STAND NOT AVAILable問題。"
+  "version": "2026.11.04.01",
+  "url": "https://github.com/lin111164/update_table_code/releases/download/2026102801/110401.exe",
+  "message": "更新版本：2026.11.04.01\n\n【更新內容】\n1. 更新鏡頭讀取模式，降低切換鏡頭卡頓。"
 }
